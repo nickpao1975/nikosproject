@@ -19,7 +19,7 @@ defineProps<{
 h1 {
   font-weight: 500;
   font-size: 2.6rem;
-  top: -10px;
+  top: -10px;}
 /*test*/
 h3 {
   font-size: 1.2rem;
